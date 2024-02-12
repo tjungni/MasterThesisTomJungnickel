@@ -1,4 +1,4 @@
-# masterarbeit
+# Master Thesis of Tom Jungnickel
 
 This repository contains the code used to produce the results in the master's thesis of Tom Jungnickel.
 
