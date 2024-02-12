@@ -3,8 +3,8 @@
 This repository contains the code used to produce the results in the master's thesis of Tom Jungnickel.
 
 This version of the code was intended for internal use. Therefore, many functions might be undocumented or not used anymore.
-Variables/functions are often weirdly inconsistently named.
-When saving or loading files, names or paths might need to be adjusted.
+Variables/functions are often weirdly and inconsistently named.
+When saving or loading files, filenames or paths might need to be adjusted.
 
 Notebooks are provided as an easy way to run the code. 
 Since these notebooks generate plots, the package Makie.jl needs to be installed and loaded in addition to this package. 
